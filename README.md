@@ -1,6 +1,2 @@
-Py_BatListNames
-===============
-
-JUST A DEMO FOR LEARNING PYTHON , ABOUT RENAMEFILES
-
 Hello World
+这是一个用来批量更改文件名的测试程序
